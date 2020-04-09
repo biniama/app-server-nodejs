@@ -1,0 +1,10 @@
+{
+  "enabledAdPlacementsForTopic": [
+    "ad_placement__shelf_sort_managed",
+    "ad_placement__shelf_sort_distance",
+    "ad_placement__shelf_sort_publish_date"
+  ],
+  "enabledAdPlacementsForBrochureOffer": [
+    "ad_placement__shelf_topic"
+  ]
+}
